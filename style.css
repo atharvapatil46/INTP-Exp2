@@ -1,0 +1,36 @@
+
+h2 {
+    background: lightgray;
+    color: navy ;
+    font: 700 16px Times New Roman;
+    top: 0px;
+    margin: 0px;
+    padding: 5px;
+    text-transform: uppercase;
+}
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+tr{
+    border: 1px solid black;
+}
+
+th{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+#border{
+    border-style: solid;
+   
+}
